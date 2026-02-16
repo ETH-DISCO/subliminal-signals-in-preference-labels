@@ -14,7 +14,7 @@
 
 # Overview
 
-In this semester thesis we study subliminal learning in preference-based alignment: even in a highly constrained setting where a neutral student model generates unbiased completions, a biased judge can transmit behavioural traits through binary preference labels alone.
+This is the official repo for Subliminal Signals in Preference Labels. In this work we study subliminal learning in preference-based alignment: even in a highly constrained setting where a neutral student model generates unbiased completions, a biased judge can transmit behavioural traits through binary preference labels alone.
 
 # Installation Guide
 
