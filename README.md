@@ -1,4 +1,4 @@
-# Subliminal Signals in preference labels
+# Subliminal Signals in Preference Labels
 
 <!-- [![arXiv](https://img.shields.io/badge/arXiv-2507.14805-red.svg?style=flat)](https://arxiv.org/abs/2507.14805) -->
 
