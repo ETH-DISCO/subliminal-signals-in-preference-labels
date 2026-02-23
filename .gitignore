@@ -63,3 +63,9 @@ trainer_output/
 unsloth_compiled_cache/
 
 output/
+
+# Profiling
+gmon.out
+
+# OS
+.DS_Store

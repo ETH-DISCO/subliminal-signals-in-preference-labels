@@ -1,7 +1,7 @@
 [project]
 name = "sl"
 version = "0.1.0"
-description = "Add your description here"
+description = "Subliminal Signals in Preference Labels"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
@@ -9,7 +9,6 @@ dependencies = [
     "dotenv>=0.9.9",
     "loguru>=0.7.3",
     "matplotlib>=3.10.3",
-    "neovim>=0.3.1",
     "numpy<2.3.1",
     "openai>1.87.0,<=1.90.0",
     "pandas>=2.3.1",
