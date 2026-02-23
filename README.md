@@ -182,17 +182,6 @@ Create a configuration file following the examples in `cfgs/preference_numbers/j
   - `build_dpo_job` / `build_dpo_job_iterative` — DPO (standard and iterative)
 - **Evaluation**: define evaluation questions using the `LogprobEvaluation` class. See `cfgs/real_world/logprob_eval_cfgs.py`.
 
-## Citation
-
-```bibtex
-@inproceedings{magistrali2026subliminal,
-  title     = {{Subliminal Signals in Preference Labels}},
-  author    = {Magistrali, I. and Berdoz, F. and Dauncey, S. and Wattenhofer, R.},
-  booktitle = {{ICLR 2026 Workshop on Agents in the Wild (AITW)}},
-  year      = {2026}
-}
-```
-
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
