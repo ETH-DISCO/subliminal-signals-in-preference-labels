@@ -1,8 +1,17 @@
-# Subliminal Signals in Preference Labels
+<div align="center">
 
-<!-- [![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-red.svg?style=flat)](https://arxiv.org/abs/XXXX.XXXXX) -->
+# **Subliminal Signals in Preference Labels**  
 
-Official code for *Subliminal Signals in Preference Labels* (ICLR 2026 Workshop).
+**Isotta Magistrali · Frédéric Berdoz · Sam Dauncey · Roger Wattenhofer**
+
+[![arXiv](https://img.shields.io/badge/arXiv-2603.01204-b31b1b.svg)](https://arxiv.org/abs/2603.01204)
+
+Accepted at AITW @ ICLR 2026
+
+</div>
+
+---
+
 
 ## Overview
 
